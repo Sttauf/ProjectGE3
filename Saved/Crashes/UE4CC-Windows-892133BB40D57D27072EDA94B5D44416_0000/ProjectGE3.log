@@ -1,0 +1,1203 @@
+﻿Log file open, 12/17/19 22:09:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectGE3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.084510
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.18-03.09.43:351][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.18-03.09.43:352][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:352][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:355][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.18-03.09.43:355][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.18-03.09.43:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.18-03.09.43:356][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.18-03.09.43:356][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.18-03.09.43:360][  0]LogHAL: Display: Platform has ~ 16 GB [17046663168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.18-03.09.43:360][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.18-03.09.43:360][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.18-03.09.43:360][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.18-03.09.43:360][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.18-03.09.43:360][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.18-03.09.43:361][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Scalability.ini]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.18-03.09.43:362][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Config/Windows/Engine.ini]
+[2019.12.18-03.09.43:362][  0]LogInit: Computer: DESKTOP-R3QVGPA
+[2019.12.18-03.09.43:362][  0]LogInit: User: sttau
+[2019.12.18-03.09.43:362][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.18-03.09.43:362][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.18-03.09.43:362][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.18-03.09.43:362][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.18-03.09.43:362][  0]LogMemory: Process Physical Memory: 101.21 MB used, 101.21 MB peak
+[2019.12.18-03.09.43:362][  0]LogMemory: Process Virtual Memory: 100.69 MB used, 100.69 MB peak
+[2019.12.18-03.09.43:362][  0]LogMemory: Physical Memory: 7743.79 MB used,  8513.18 MB free, 16256.96 MB total
+[2019.12.18-03.09.43:363][  0]LogMemory: Virtual Memory: 4668.43 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.18-03.09.43:368][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.18-03.09.43:417][  0]LogInit: Using OS detected language (en-US).
+[2019.12.18-03.09.43:417][  0]LogInit: Using OS detected locale (en-CA).
+[2019.12.18-03.09.43:418][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.18-03.09.43:653][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.18-03.09.43:719][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.18-03.09.43:719][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.18-03.09.43:959][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.18-03.09.43:959][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.18-03.09.44:335][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.12.18-03.09.44:335][  0]LogD3D11RHI:       6052/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.18-03.09.44:367][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.18-03.09.44:367][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.18-03.09.44:369][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.18-03.09.44:369][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.18-03.09.44:369][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.18-03.09.44:408][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.18-03.09.44:408][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.18-03.09.44:408][  0]LogWindows: EnumDisplayDevices:
+[2019.12.18-03.09.44:408][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.18-03.09.44:409][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.18-03.09.44:409][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.18-03.09.44:409][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.18-03.09.44:410][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.18-03.09.44:410][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.18-03.09.44:410][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.18-03.09.44:410][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.18-03.09.44:410][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.12.18-03.09.44:410][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2019.12.18-03.09.44:410][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2019.12.18-03.09.44:410][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.18-03.09.44:458][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.18-03.09.44:471][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.18-03.09.44:929][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.18-03.09.44:940][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.18-03.09.44:951][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.18-03.09.44:962][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.18-03.09.44:974][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.18-03.09.44:986][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.18-03.09.44:998][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.18-03.09.45:011][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.18-03.09.45:020][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.18-03.09.45:059][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.18-03.09.45:062][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.18-03.09.45:087][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.18-03.09.45:087][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.18-03.09.45:105][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.18-03.09.45:105][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.18-03.09.45:114][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.18-03.09.45:124][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.18-03.09.45:134][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.18-03.09.45:144][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.18-03.09.45:179][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.18-03.09.45:179][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.18-03.09.45:179][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.18-03.09.45:192][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.18-03.09.45:270][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Intermediate/Shaders/WorkingDirectory/10020/).
+[2019.12.18-03.09.45:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sttau/AppData/Local/Temp/UnrealShaderWorkingDir/EB9B6A564A67C5ABB8BEF58B8398CE15/'.
+[2019.12.18-03.09.45:274][  0]LogXGEController: Cleaning working directory: C:/Users/sttau/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.18-03.09.45:275][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.12.18-03.09.45:968][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.18-03.09.46:020][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/sttau/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.18-03.09.46:020][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sttau/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.18-03.09.46:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.18-03.09.46:020][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.18-03.09.46:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.18-03.09.46:020][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.18-03.09.46:032][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.18-03.09.46:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.18-03.09.46:033][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.18-03.09.46:034][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sttau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.18-03.09.46:034][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.18-03.09.46:034][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.18-03.09.46:058][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.18-03.09.46:061][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.18-03.09.46:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.18-03.09.46:128][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2019.12.18-03.09.46:506][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.18-03.09.46:692][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.18-03.09.46:692][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.18-03.09.46:692][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.18-03.09.46:692][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.18-03.09.46:692][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.18-03.09.46:705][  0]LogNetVersion: ProjectGE3 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3774226274)
+[2019.12.18-03.09.46:920][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EDepthOfFieldMethod' with an invalid value of '('
+[2019.12.18-03.09.47:222][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.055703 seconds
+[2019.12.18-03.09.47:231][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.18-03.09.47:231][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.18-03.09.47:231][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.18-03.09.48:350][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.18-03.09.48:353][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.18-03.09.48:420][  0]SourceControl: Source control is disabled
+[2019.12.18-03.09.48:420][  0]SourceControl: Source control is disabled
+[2019.12.18-03.09.48:421][  0]SourceControl: Source control is disabled
+[2019.12.18-03.09.48:423][  0]SourceControl: Source control is disabled
+[2019.12.18-03.09.48:542][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.18-03.09.48:753][  0]LogOcInput: OculusInput pre-init called
+[2019.12.18-03.09.48:764][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.18-03.09.48:765][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.18-03.09.48:846][  0]LogEngine: Initializing Engine...
+[2019.12.18-03.09.48:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.18-03.09.48:848][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.18-03.09.49:118][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.18-03.09.49:138][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.18-03.09.49:247][  0]LogInit: XAudio2 using 'Speakers (ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2019.12.18-03.09.49:289][  0]LogInit: FAudioDevice initialized.
+[2019.12.18-03.09.49:290][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.18-03.09.49:397][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/sttau/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.18-03.09.49:400][  0]LogInit: Texture streaming: Enabled
+[2019.12.18-03.09.49:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.18-03.09.49:428][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.18-03.09.49:433][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.18-03.09.49:493][  0]LogInit: Transaction tracking system initialized
+[2019.12.18-03.09.49:533][  0]BlueprintLog: New page: Editor Load
+[2019.12.18-03.09.49:632][  0]LocalizationService: Localization service is disabled
+[2019.12.18-03.09.49:686][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2019.12.18-03.09.49:686][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2019.12.18-03.09.49:686][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.12.18-03.09.49:920][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.18-03.09.49:920][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.18-03.09.50:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/' took 0.06s
+[2019.12.18-03.09.50:145][  0]SourceControl: Source control is disabled
+[2019.12.18-03.09.50:145][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Design/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.18-03.09.50:145][  0]LightingResults: New page: Lighting Build
+[2019.12.18-03.09.50:149][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.18-03.09.50:149][  0]MapCheck: New page: Map Check
+[2019.12.18-03.09.50:149][  0]LightingResults: New page: Lighting Build
+[2019.12.18-03.09.50:177][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.12.18-03.09.50:200][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.12.18-03.09.50:201][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.18-03.09.50:225][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.18-03.09.50:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.18-03.09.50:226][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2019.12.18-03.09.50:226][  0]LogFileHelpers: Loading map 'MainMenu' took 0.081
+[2019.12.18-03.09.50:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-03.09.50:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-03.09.50:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-03.09.50:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-03.09.50:375][  0]LogCollectionManager: Loaded 0 collections in 0.002240 seconds
+[2019.12.18-03.09.50:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Collections/' took 0.00s
+[2019.12.18-03.09.50:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/Developers/sttau/Collections/' took 0.00s
+[2019.12.18-03.09.50:384][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/Collections/' took 0.00s
+[2019.12.18-03.09.50:384][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.18-03.09.50:392][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2863 classes and 680 folders.
+[2019.12.18-03.09.50:399][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.18-03.09.50:459][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.18-03.09.50:464][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.18-03.09.50:475][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2019.12.18-03.09.50:571][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.18-03.09.50:575][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.18-03.09.50:585][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.18-03.09.50:673][  0]LogRenderer: Reallocating scene render targets to support 996x392 Format 10 NumSamples 1 (Frame:1).
+[2019.12.18-03.09.50:778][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.18-03.09.50:778][  0]LogLoad: (Engine Initialization) Total time: 9.15 seconds
+[2019.12.18-03.09.50:778][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.18-03.09.50:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.18-03.09.51:032][  2]LogAssetRegistry: Asset discovery search completed in 4.9040 seconds
+[2019.12.18-03.09.51:036][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.18-03.09.51:036][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.12.18-03.10.03:219][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.10.16:105][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.12.18-03.10.17:204][499]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.18-03.10.34:440][531]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.18-03.10.34:575][531]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2019.12.18-03.10.40:438][531]LogAIModule: Creating AISystem for world Map1
+[2019.12.18-03.10.40:992][531]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPerson/Design/Maps/Map1.Map1
+[2019.12.18-03.10.41:327][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.18-03.10.41:328][531]Cmd: MAP LOAD FILE="../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Design/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.18-03.10.41:332][531]LightingResults: New page: Lighting Build
+[2019.12.18-03.10.41:333][531]LoadErrors: New page: Loading map: Map1.umap
+[2019.12.18-03.10.41:333][531]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.12.18-03.10.41:334][531]MapCheck: New page: Map Check
+[2019.12.18-03.10.41:334][531]LightingResults: New page: Lighting Build
+[2019.12.18-03.10.41:361][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.18-03.10.41:529][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:529][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:533][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:533][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:533][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:533][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:533][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:533][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:535][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:535][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:549][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:550][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:550][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:550][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:550][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:550][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:550][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:611][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:611][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:611][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:611][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:611][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:611][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:612][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:612][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:613][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:613][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:613][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:613][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:613][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:613][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:614][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:615][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:620][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:620][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:620][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:620][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:621][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:622][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:623][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:624][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:624][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:624][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:624][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:624][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:624][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:625][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:626][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:627][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:628][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:628][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.41:628][531]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.10.41:628][531]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.10.42:316][531]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.12.18-03.10.42:754][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.18-03.10.42:807][531]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.18-03.10.42:807][531]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.48ms to complete.
+[2019.12.18-03.10.42:807][531]LogFileHelpers: Loading map 'Map1' took 1.479
+[2019.12.18-03.12.20:209][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.12.23:308][ 31]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.18-03.12.25:815][ 65]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.18-03.12.34:720][191]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.18-03.12.54:134][726]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2019.12.18-03.12.54:135][726]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2019.12.18-03.12.54:135][726]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2019.12.18-03.12.55:788][821]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1
+[2019.12.18-03.12.56:043][821]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.18-03.12.56:880][821]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.18-03.14.07:428][ 25]BlueprintLog: New page: Compile Map1
+[2019.12.18-03.14.07:900][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.18-03.14.17:564][601]BlueprintLog: New page: Compile Map1
+[2019.12.18-03.14.18:036][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.12.18-03.19.57:827][980]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={69CEF19D-48A8-E899-48FD-18A1F3FDC03E}
+[2019.12.18-03.20.34:675][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.18-03.20.39:650][185]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Map1_Auto13CD0E5D04D9B22E26AD901B2193F10DD.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Autosaves/Game/FirstPerson/Design/Maps/Map1_Auto1.umap'
+[2019.12.18-03.20.39:658][185]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPerson/Design/Maps/Map1' took 5.019
+[2019.12.18-03.20.39:658][185]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.019
+[2019.12.18-03.35.30:343][623]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-03.35.30:361][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-03.35.30:361][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-03.35.30:362][623]PIE: New page: PIE session: Map1 (Dec 17, 2019, 5:35:30 PM)
+[2019.12.18-03.35.30:363][623]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.18-03.35.30:364][623]LogPlayLevel: Creating play world package: /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-03.35.32:449][623]LogPlayLevel: PIE: StaticDuplicateObject took: (2.085445s)
+[2019.12.18-03.35.32:450][623]LogAIModule: Creating AISystem for world Map1
+[2019.12.18-03.35.32:450][623]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2019.12.18-03.35.32:452][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Design/Maps/Map1.Map1 to /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 (2.088273s)
+[2019.12.18-03.35.32:496][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.18-03.35.32:523][623]LogInit: XAudio2 using 'Speakers (ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2019.12.18-03.35.32:554][623]LogInit: FAudioDevice initialized.
+[2019.12.18-03.35.32:572][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-03.35.32:574][623]LogLoad: Game class is 'GameModeBase'
+[2019.12.18-03.35.32:689][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:689][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:690][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:690][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:690][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:690][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:690][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:690][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:692][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:692][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:702][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:702][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-03.35.32:703][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-03.35.32:747][623]LogWorld: Bringing World /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.12.17-22.35.32
+[2019.12.18-03.35.32:788][623]LogWorld: Bringing up level for play took: 0.212743
+[2019.12.18-03.35.32:788][623]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.18-03.35.32:800][623]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.18-03.35.32:807][623]PIE: Play in editor start time for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1 2.659
+[2019.12.18-03.35.32:808][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-03.35.34:357][624]LogRenderer: Reallocating scene render targets to support 1280x716 Format 10 NumSamples 1 (Frame:1).
+[2019.12.18-03.35.34:712][624]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070594 > MaxSimulationTimeStep (0.050) for 'BP_AI6_8', movement 'Walking'
+[2019.12.18-03.35.34:715][624]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056900 > MaxSimulationTimeStep (0.050) for 'BP_AI58', movement 'Walking'
+[2019.12.18-03.35.34:716][624]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057190 > MaxSimulationTimeStep (0.050) for 'BP_AI59', movement 'Walking'
+[2019.12.18-03.35.44:835][761]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.35.47:878][823]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.35.48:350][834]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.35.56:703][958]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.35.57:128][966]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.04:581][ 89]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.22:738][312]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.24:017][328]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.24:821][338]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.25:942][352]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.29:015][392]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.29:883][403]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.30:534][411]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.30:700][413]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.35:036][490]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.45:441][638]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.052600 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:500][639]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.059193 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:558][640]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.056601 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:612][641]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.058465 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:671][642]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.058245 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:770][644]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.053663 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:826][645]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.053057 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:927][647]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.054941 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.45:980][648]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.053521 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:081][650]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.050110 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:136][651]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.053972 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:189][652]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.051263 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:242][653]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.056351 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:326][654]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.084423 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:430][656]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.050560 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:475][657]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.050651 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:527][658]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.050055 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.46:626][660]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.052283 > MaxSimulationTimeStep (0.050) for '/Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.FirstPersonProjectile_C_3.CollisionComponent'
+[2019.12.18-03.36.48:537][699]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-03.36.53:308][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-03.36.53:308][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-03.36.53:309][774]LogWorld: BeginTearingDown for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-03.36.53:363][774]LogSlate: Window 'ProjectGE3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.18-03.36.53:452][774]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2019.12.18-03.36.53:542][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-03.36.53:544][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-03.36.53:766][774]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2019.12.18-03.36.53:806][775]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.18-03.37.01:747][251]LogEditorTransaction: Undo Delete current selection
+[2019.12.18-03.37.02:038][267]LogEditorTransaction: Undo Delete current selection
+[2019.12.18-03.37.02:285][281]LogEditorTransaction: Undo Edit 0
+[2019.12.18-03.37.02:543][296]LogEditorTransaction: Undo Edit Speaker
+[2019.12.18-03.37.02:868][315]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.03:270][338]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.03:645][360]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.04:020][382]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.04:447][407]LogEditorTransaction: Undo Promote To Variable
+[2019.12.18-03.37.04:822][429]LogEditorTransaction: Undo Delete current selection
+[2019.12.18-03.37.05:186][450]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.05:547][471]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.05:904][492]LogEditorTransaction: Undo Add Node
+[2019.12.18-03.37.06:320][516]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.06:695][538]LogEditorTransaction: Undo Delete current selection
+[2019.12.18-03.37.07:029][557]LogEditorTransaction: Undo Change Object Pin Value
+[2019.12.18-03.37.07:433][580]LogEditorTransaction: Undo Move Node
+[2019.12.18-03.37.07:809][602]LogEditorTransaction: Undo Add Node
+[2019.12.18-03.37.08:284][630]LogEditorTransaction: Undo Delete current selection
+[2019.12.18-03.37.34:768][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.18-03.37.39:757][212]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Map1_Auto21CCBCF494DCABBBED4AD7192578DCA76.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Autosaves/Game/FirstPerson/Design/Maps/Map1_Auto2.umap'
+[2019.12.18-03.37.39:765][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPerson/Design/Maps/Map1' took 5.036
+[2019.12.18-03.37.39:765][212]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.036
+[2019.12.18-03.49.10:926][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.18-03.49.16:151][654]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Map1F0B140E14B8884E10F326583065303FB.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Design/Maps/Map1.umap'
+[2019.12.18-03.49.16:203][654]LogFileHelpers: Saving map 'Map1' took 5.328
+[2019.12.18-03.49.16:631][678]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.18-03.49.49:768][381]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.18-03.56.22:294][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.56.49:342][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.57.00:880][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_B_21)
+[2019.12.18-03.57.46:164][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.57.51:831][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.57.59:940][430]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.18-03.58.01:756][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.11:800][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.17:148][766]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.18-03.58.18:121][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.21:017][838]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.18-03.58.21:704][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.24:818][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.18-03.58.25:840][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.18-03.58.26:461][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.18-03.58.27:012][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.18-03.58.32:146][ 97]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.18-03.58.32:947][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.44:448][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.50:928][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.58.57:322][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.59.09:246][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.18-03.59.10:701][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-03.59.40:683][782]LogAssetEditorManager: Opening Asset editor for DialogueVoice /Game/FirstPerson/Mechanic/Blueprints/234524__foolboymedia__notification-up-1.234524__foolboymedia__notification-up-1
+[2019.12.18-03.59.42:952][905]LogSlate: Window '234524__foolboymedia__notification-up-1' being destroyed
+[2019.12.18-03.59.44:781][ 12]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/FirstPerson/Mechanic/Blueprints/NewDialogueWave.NewDialogueWave
+[2019.12.18-03.59.51:523][406]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/NewDialogueWave6A25BCD34C60E3DA1DA706A0D7088119.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/NewDialogueWave.uasset'
+[2019.12.18-03.59.52:572][467]LogSlate: Window 'NewDialogueWave' being destroyed
+[2019.12.18-03.59.54:217][563]LogAssetEditorManager: Opening Asset editor for DialogueWave /Game/FirstPerson/Mechanic/Blueprints/NewDialogueWave.NewDialogueWave
+[2019.12.18-04.00.08:274][398]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/NewDialogueWave06D248CB44EBC11F2ED931AEA2EFFA74.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/NewDialogueWave.uasset'
+[2019.12.18-04.00.19:927][ 89]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.18-04.00.21:362][ 89]LogSlate: Window 'Save Asset As' being destroyed
+[2019.12.18-04.00.39:198][156]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/NewDialogueWave20C93AD048CB99FBA0494B905C9E1685.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/NewDialogueWave.uasset'
+[2019.12.18-04.00.40:710][245]LogSlate: Window 'NewDialogueWave' being destroyed
+[2019.12.18-04.01.22:721][746]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-04.01.22:739][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.01.22:739][746]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.18-04.01.22:740][746]LogPlayLevel: [PlayLevel] Compiling Map1 before play...
+[2019.12.18-04.01.22:743][746]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The current value of the ' Context ' pin is invalid: 'Context' in action 'Spawn Dialogue Attached' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.18-04.01.23:274][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.18-04.01.23:274][746]LogPlayLevel: PlayLevel: Blueprint regeneration took 534 ms (1 blueprints)
+[2019.12.18-04.01.23:274][746]BlueprintLog: Warning: Blueprint failed to compile:  Map1
+[2019.12.18-04.01.23:274][746]LogCustomDialog: Dialog displayed:
+[2019.12.18-04.01.26:947][746]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.18-04.01.35:712][268]BlueprintLog: New page: Compile Map1
+[2019.12.18-04.01.36:204][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.12.18-04.02.03:828][919]LogEditorTransaction: Undo Edit 0
+[2019.12.18-04.02.04:115][935]LogEditorTransaction: Undo Edit Speaker
+[2019.12.18-04.02.04:412][952]LogEditorTransaction: Undo Promote To Variable
+[2019.12.18-04.02.04:961][984]LogEditorTransaction: Undo Change Object Pin Value
+[2019.12.18-04.02.05:375][  8]LogEditorTransaction: Undo Move Node
+[2019.12.18-04.02.05:701][ 27]LogEditorTransaction: Undo Add Node
+[2019.12.18-04.02.06:062][ 48]LogEditorTransaction: Undo Delete current selection
+[2019.12.18-04.02.07:306][122]LogEditorTransaction: Undo Move Node
+[2019.12.18-04.02.08:752][204]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.18-04.02.13:660][204]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Map1C608E5DB422DA6C7DCE57FAB8CE63791.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Design/Maps/Map1.umap'
+[2019.12.18-04.02.13:710][204]LogFileHelpers: Saving map 'Map1' took 5.003
+[2019.12.18-04.04.07:179][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.04.22:070][ 79]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.18-04.04.29:608][520]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPerson/Mechanic/Blueprints/Ammo.Ammo
+[2019.12.18-04.04.31:292][580]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.18-04.05.08:760][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.18-04.05.14:075][952]BlueprintLog: New page: Compile Ammo
+[2019.12.18-04.05.14:538][952]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2019.12.18-04.05.14:733][957]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Ammo1BF3973B469BB259535697AF1FC4F733.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/Ammo.uasset'
+[2019.12.18-04.05.35:436][190]BlueprintLog: New page: Compile Ammo
+[2019.12.18-04.05.35:886][190]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2019.12.18-04.05.36:314][206]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/AmmoC38116054218DF2F54C6C1A0A475EE94.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/Ammo.uasset'
+[2019.12.18-04.06.46:967][357]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Ammo476C3A0A47A34C3F78B59A96156E474A.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/Ammo.uasset'
+[2019.12.18-04.06.48:004][417]BlueprintLog: New page: Compile Ammo
+[2019.12.18-04.06.48:006][417]LogBlueprint: Error: [Compiler Ammo] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.12.18-04.06.48:006][417]LogBlueprint: Error: [Compiler Ammo] Variable node  Set CurrAmmo  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.12.18-04.06.48:482][417]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.12.18-04.06.55:847][846]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Ammo721F83694603B60B4CC5CAB01BCC9A31.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/Ammo.uasset'
+[2019.12.18-04.06.56:621][891]BlueprintLog: New page: Compile Ammo
+[2019.12.18-04.06.57:088][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.12.18-04.06.57:683][913]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Ammo83F750C440D25EA073E0B8BF637BB9BD.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/Ammo.uasset'
+[2019.12.18-04.07.01:051][104]LogSlate: Window 'Ammo' being destroyed
+[2019.12.18-04.07.15:648][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.07.19:829][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.07.19:886][557]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-04.07.19:905][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.07.19:905][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-04.07.19:906][557]PIE: New page: PIE session: Map1 (Dec 17, 2019, 6:07:19 PM)
+[2019.12.18-04.07.19:906][557]LogPlayLevel: Creating play world package: /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-04.07.22:630][557]LogPlayLevel: PIE: StaticDuplicateObject took: (2.724416s)
+[2019.12.18-04.07.22:631][557]LogAIModule: Creating AISystem for world Map1
+[2019.12.18-04.07.22:631][557]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2019.12.18-04.07.22:633][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Design/Maps/Map1.Map1 to /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 (2.726766s)
+[2019.12.18-04.07.22:680][557]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2019.12.18-04.07.22:707][557]LogInit: XAudio2 using 'Speakers (ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2019.12.18-04.07.22:739][557]LogInit: FAudioDevice initialized.
+[2019.12.18-04.07.22:757][557]LogLoad: Game class is 'GameModeBase'
+[2019.12.18-04.07.22:829][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:829][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:830][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:830][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:830][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:830][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:830][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:830][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:831][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:831][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.07.22:841][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.07.22:874][557]LogWorld: Bringing World /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.12.17-23.07.22
+[2019.12.18-04.07.22:911][557]LogWorld: Bringing up level for play took: 0.153744
+[2019.12.18-04.07.22:912][557]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.18-04.07.22:919][557]PIE: Play in editor start time for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1 2.772
+[2019.12.18-04.07.22:919][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.07.22:986][558]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.084029 > MaxSimulationTimeStep (0.050) for 'BP_AI26', movement 'Walking'
+[2019.12.18-04.07.22:986][558]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055985 > MaxSimulationTimeStep (0.050) for 'BP_AI5_5', movement 'Walking'
+[2019.12.18-04.07.22:989][558]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097160 > MaxSimulationTimeStep (0.050) for 'BP_AI58', movement 'Walking'
+[2019.12.18-04.07.22:989][558]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097419 > MaxSimulationTimeStep (0.050) for 'BP_AI59', movement 'Walking'
+[2019.12.18-04.07.32:760][664]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.07.38:266][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.07.38:267][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-04.07.38:267][744]LogWorld: BeginTearingDown for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-04.07.38:293][744]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2019.12.18-04.07.38:470][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-04.07.38:471][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.07.38:565][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-04.07.38:609][744]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.12.18-04.07.38:702][745]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.18-04.07.39:520][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.08.12:955][734]BlueprintLog: New page: Compile Ammo
+[2019.12.18-04.08.13:394][734]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2019.12.18-04.08.13:816][755]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Saved/Ammo70E063464E7887EAC8D1F1B0374B362C.tmp' to '../../../../../../Users/sttau/OneDrive/Área de Trabalho/ProjectGE3/Content/FirstPerson/Mechanic/Blueprints/Ammo.uasset'
+[2019.12.18-04.08.18:763][935]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-04.08.18:787][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.08.18:787][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-04.08.18:787][935]PIE: New page: PIE session: Map1 (Dec 17, 2019, 6:08:18 PM)
+[2019.12.18-04.08.18:787][935]LogPlayLevel: Creating play world package: /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-04.08.20:875][935]LogPlayLevel: PIE: StaticDuplicateObject took: (2.088122s)
+[2019.12.18-04.08.20:876][935]LogAIModule: Creating AISystem for world Map1
+[2019.12.18-04.08.20:876][935]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2019.12.18-04.08.20:877][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Design/Maps/Map1.Map1 to /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 (2.090040s)
+[2019.12.18-04.08.20:919][935]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.12.18-04.08.20:945][935]LogInit: XAudio2 using 'Speakers (ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2019.12.18-04.08.20:976][935]LogInit: FAudioDevice initialized.
+[2019.12.18-04.08.20:987][935]LogLoad: Game class is 'GameModeBase'
+[2019.12.18-04.08.21:065][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:065][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:067][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:067][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:067][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:067][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:067][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:067][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:068][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:068][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:077][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:078][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:078][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:078][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:078][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:078][935]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.21:078][935]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.21:118][935]LogWorld: Bringing World /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.12.17-23.08.21
+[2019.12.18-04.08.21:154][935]LogWorld: Bringing up level for play took: 0.165574
+[2019.12.18-04.08.21:154][935]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.18-04.08.21:160][935]PIE: Play in editor start time for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1 3.012
+[2019.12.18-04.08.21:161][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.08.21:220][936]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072400 > MaxSimulationTimeStep (0.050) for 'BP_AI26', movement 'Walking'
+[2019.12.18-04.08.21:221][936]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098576 > MaxSimulationTimeStep (0.050) for 'BP_AI6_8', movement 'Walking'
+[2019.12.18-04.08.21:225][936]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085947 > MaxSimulationTimeStep (0.050) for 'BP_AI58', movement 'Walking'
+[2019.12.18-04.08.21:225][936]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086214 > MaxSimulationTimeStep (0.050) for 'BP_AI59', movement 'Walking'
+[2019.12.18-04.08.22:836][937]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.08.23:524][942]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.08.27:234][991]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.08.31:890][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.08.31:890][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-04.08.31:890][ 84]LogWorld: BeginTearingDown for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-04.08.31:908][ 84]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2019.12.18-04.08.31:992][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-04.08.31:993][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.08.32:063][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-04.08.32:100][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.12.18-04.08.32:127][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.18-04.08.33:529][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.08.33:569][110]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.18-04.08.33:598][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.08.33:598][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.18-04.08.33:599][110]PIE: New page: PIE session: Map1 (Dec 17, 2019, 6:08:33 PM)
+[2019.12.18-04.08.33:599][110]LogPlayLevel: Creating play world package: /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-04.08.35:672][110]LogPlayLevel: PIE: StaticDuplicateObject took: (2.073172s)
+[2019.12.18-04.08.35:672][110]LogAIModule: Creating AISystem for world Map1
+[2019.12.18-04.08.35:673][110]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2019.12.18-04.08.35:673][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Design/Maps/Map1.Map1 to /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 (2.074841s)
+[2019.12.18-04.08.35:719][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.18-04.08.35:742][110]LogInit: XAudio2 using 'Speakers (ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2019.12.18-04.08.35:770][110]LogInit: FAudioDevice initialized.
+[2019.12.18-04.08.35:778][110]LogLoad: Game class is 'GameModeBase'
+[2019.12.18-04.08.35:869][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:869][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:870][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:870][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:870][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:870][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:870][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:870][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:871][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:871][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:881][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.12.18-04.08.35:882][110]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.12.18-04.08.35:913][110]LogWorld: Bringing World /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2019.12.17-23.08.35
+[2019.12.18-04.08.35:961][110]LogWorld: Bringing up level for play took: 0.182805
+[2019.12.18-04.08.35:961][110]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.18-04.08.35:969][110]PIE: Play in editor start time for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1 1.822
+[2019.12.18-04.08.35:970][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.08.36:047][111]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067612 > MaxSimulationTimeStep (0.050) for 'BP_AI26', movement 'Walking'
+[2019.12.18-04.08.36:048][111]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094131 > MaxSimulationTimeStep (0.050) for 'BP_AI6_8', movement 'Walking'
+[2019.12.18-04.08.36:051][111]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081333 > MaxSimulationTimeStep (0.050) for 'BP_AI58', movement 'Walking'
+[2019.12.18-04.08.36:051][111]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081605 > MaxSimulationTimeStep (0.050) for 'BP_AI59', movement 'Walking'
+[2019.12.18-04.08.42:014][169]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.09.04:320][647]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.09.10:417][740]LogBlueprintUserMessages: [BP_AI3] 364.543579
+[2019.12.18-04.09.10:584][742]LogBlueprintUserMessages: [BP_AI3] 170.473328
+[2019.12.18-04.09.10:749][744]LogBlueprintUserMessages: [BP_AI3] 5.746613
+[2019.12.18-04.09.11:662][755]LogBlueprintUserMessages: [BP_AI3] -158.418549
+[2019.12.18-04.09.15:004][796]LogBlueprintUserMessages: [BP_AI2_0] 323.218475
+[2019.12.18-04.09.15:004][796]LogBlueprintUserMessages: [BP_AI2_0] 134.11969
+[2019.12.18-04.09.16:635][816]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	BP_AI2_C /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.BP_AI2_0
+	Function /Game/FirstPerson/Mechanic/BP_AI/AI_2/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0108
+[2019.12.18-04.09.16:635][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Player". Blueprint:  BP_AI2 Function:  Execute Ubergraph BP AI2 Graph:  EventGraph Node:  LineTraceByChannel
+[2019.12.18-04.09.18:116][838]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19037.307 Y=19085.361 Z=61733.449] for [FirstPersonProjectile_C]
+[2019.12.18-04.09.18:886][856]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	BP_AI2_C /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.BP_AI2_0
+	Function /Game/FirstPerson/Mechanic/BP_AI/AI_2/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0108
+[2019.12.18-04.09.18:886][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Player". Blueprint:  BP_AI2 Function:  Execute Ubergraph BP AI2 Graph:  EventGraph Node:  LineTraceByChannel
+[2019.12.18-04.09.20:477][895]LogBlueprintUserMessages: [BP_AI2_0] 14.520706
+[2019.12.18-04.09.21:939][937]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.09.28:645][ 77]LogBlueprintUserMessages: [FirstPersonCharacter] 1click
+[2019.12.18-04.09.34:460][175]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	BP_AI2_C /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.BP_AI2_0
+	Function /Game/FirstPerson/Mechanic/BP_AI/AI_2/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0108
+[2019.12.18-04.09.34:461][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Player". Blueprint:  BP_AI2 Function:  Execute Ubergraph BP AI2 Graph:  EventGraph Node:  LineTraceByChannel
+[2019.12.18-04.09.41:453][262]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	BP_AI2_C /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.BP_AI2_0
+	Function /Game/FirstPerson/Mechanic/BP_AI/AI_2/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0108
+[2019.12.18-04.09.41:454][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Player". Blueprint:  BP_AI2 Function:  Execute Ubergraph BP AI2 Graph:  EventGraph Node:  LineTraceByChannel
+[2019.12.18-04.09.49:161][357]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	BP_AI2_C /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.BP_AI2_0
+	Function /Game/FirstPerson/Mechanic/BP_AI/AI_2/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0108
+[2019.12.18-04.09.49:161][357]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Player". Blueprint:  BP_AI2 Function:  Execute Ubergraph BP AI2 Graph:  EventGraph Node:  LineTraceByChannel
+[2019.12.18-04.09.51:132][382]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_Player
+	BP_AI2_C /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.BP_AI2_0
+	Function /Game/FirstPerson/Mechanic/BP_AI/AI_2/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0108
+[2019.12.18-04.09.51:132][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_Player". Blueprint:  BP_AI2 Function:  Execute Ubergraph BP AI2 Graph:  EventGraph Node:  LineTraceByChannel
+[2019.12.18-04.09.55:980][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.09.55:981][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-04.09.55:981][444]LogWorld: BeginTearingDown for /Game/FirstPerson/Design/Maps/UEDPIE_0_Map1
+[2019.12.18-04.09.56:018][444]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2019.12.18-04.09.56:205][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.18-04.09.56:207][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/FirstPerson/Design/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/FirstPerson/Design/Maps/Map1.Map1:PersistentLevel.Map1'
+[2019.12.18-04.09.56:339][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.18-04.09.56:412][444]LogUObjectHash: Compacting FUObjectHashTables data took   8.95ms
+[2019.12.18-04.09.56:498][445]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.18-04.09.58:755][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.10.12:379][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.18-04.11.42:236][707]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPerson/Mechanic/BP_FPS/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.18-04.12.19:573][889]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.18-04.13.09:615][853]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.18-04.13.10:120][853]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2019.12.18-04.13.18:748][356]LogUObjectBase: Warning: Object is not registered
+[2019.12.18-04.13.18:748][356]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.18-04.13.19:527][356]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.778 s
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: 
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: Stack: 
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff47445279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff46c67fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff46c7622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff49856c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff44c54dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff44c0e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff55e2d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff5601c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff55e7922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff55e55738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff55e49a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff75a84c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff75a726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff75a87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff75a6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff9ef763ed USER32.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff9ef75de2 USER32.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff75a888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007ff76a756980 UE4Editor.exe!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007ff76a76a91c UE4Editor.exe!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007ff76a76a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007ff76a77b92c UE4Editor.exe!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007ff76a77e60e UE4Editor.exe!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fff9fe17bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: [Callstack] 0x00007fffa0bcced1 ntdll.dll!UnknownFunction []
+[2019.12.18-04.13.19:527][356]LogOutputDevice: Error: 
+[2019.12.18-04.13.19:539][356]LogStats:                SubmitErrorReport -  0.000 s
